@@ -14,8 +14,12 @@ const Footer  = () => {
                     </li>
                     <li className="social__item"><a href="https://github.com/T1maty"><img src={git} alt="Link"/></a></li>
                     <li className="social__item"><a href="https://www.linkedin.com/in/timofey-fedoryk-5a0926258/"><img src={linkedin} alt="Link"/></a>
-                    </li>
+                        </li>
                 </ul>
+
+                <div>
+                    <li className="social__item"><a href="https://github.com/Yablonskio"><img src={git} alt="Link"/></a></li>
+                </div>
                 <div className="copyright">
                     <p>© 2023 fullstack.com</p>
                 </div>
