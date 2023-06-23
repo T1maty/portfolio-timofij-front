@@ -9,8 +9,8 @@ const Header = () => {
             <div className="header__text">
                 <p>with passion for learning,creating, development.</p>
             </div>
-            <a href="/"  className="btn">My Github Link</a>
-            <a href="/"  className="btn2">GitHub Link in my buddy</a>
+            <a href="https://github.com/T1maty"  className="btn">My Github Link</a>
+            <a href="https://github.com/Yablonskio"  className="btn2">GitHub Link in my buddy</a>
         </div>
     </header>);
 }
