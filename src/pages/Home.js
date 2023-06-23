@@ -11,7 +11,7 @@ const Home = () => {
             <ul className="content-list">
                 <li className="content-list__item">
                     <h2 className="title-2">Frontend</h2>
-                    <p>JavaScript,ReactJS,Redux, HTML, CSS, NPM, BootStrap,Yarn,</p>
+                    <p>JavaScript,ReactJS,Redux, HTML, CSS, NPM, BootStrap,Yarn</p>
                 </li>
                 <li className="content-list__item">
                     <h2 className="title-2">Backend</h2>
