@@ -19,7 +19,7 @@ const Home = () => {
                 </li>
                 <li className="content-list__item">
                     <h2 className="title-2">DevOps</h2>
-                    <p>Kubernetes, Docker, CI/CD pipelines, Gitlab CI/CD and Github Actions, bash Scripting and Authomatization</p>
+                    <p>Kubernetes, Docker, CI/CD pipelines, Gitlab CI/CD and Github Actions, bash Scripting and Authomatization, and Linux system</p>
                 </li>
             </ul>
 
