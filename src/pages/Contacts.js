@@ -6,11 +6,11 @@ const Contacts = () => {
                 <ul className="content-list">
                     <li className="content-list__item">
                         <h2 className="title-2">Location</h2>
-                        <p>Vinogradiv, Ukraine</p>
+                        <p>Czech Republic, Prague</p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Telegram </h2>
-                        <p><a href="https://t.me/Carbonvb">@Carbonvb</a></p>
+                        <p><a href="https://t.me/termsthm">@termsthm</a></p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Email</h2>

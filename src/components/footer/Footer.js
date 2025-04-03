@@ -10,14 +10,12 @@ const Footer  = () => {
                 <ul className="social">
                     <li className="social__item"><a href="https://www.instagram.com/timofey_._3/"><img src={inst} alt="Link"/></a>
                     </li>
-                    <li className="social__item"><a href="https://twitter.com/Timofey19407500"><img src={twitter} alt="Link"/></a>
-                    </li>
                     <li className="social__item"><a href="https://github.com/T1maty"><img src={git} alt="Link"/></a></li>
-                    <li className="social__item"><a href="https://www.linkedin.com/in/timofey-fedoryk-5a0926258/"><img src={linkedin} alt="Link"/></a>
+                    <li className="social__item"><a href="https://www.linkedin.com/in/tymofii-fedoryk-5a0926258/"><img src={linkedin} alt="Link"/></a>
                         </li>
                 </ul>
                 <div className="copyright">
-                    <p>© 2023 fullstack.com</p>
+                    <p>© 2025 devops.com</p>
                 </div>
             </div>
         </div>
