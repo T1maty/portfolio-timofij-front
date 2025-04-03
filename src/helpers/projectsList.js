@@ -1,5 +1,6 @@
 import cardiogram from "./../img/projects/cardiogram.jpg";
 import gi from "./../img/projects/gi.jpg";
+import fastapi from "./../img/projects/fastapi.jpg";
 
 
 const projects = [
@@ -12,6 +13,11 @@ const projects = [
         title: 'Gaming Industrios',
         skills:'ASP.NET C#, POSTGRESQL, Redis, JWT Authorization, Docker, DTO (Data Transfer Object)',
         img:gi,
+    },
+    {
+        title: 'Manager Password',
+        skills:'FASTAPI, Python, Github Actions CI/CD, Docker, JWT Authorization, MONGODB, But the project is still in development',
+        img:fastapi,
     },
 ];
 
