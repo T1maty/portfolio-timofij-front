@@ -11,7 +11,7 @@ const Footer  = () => {
                     <li className="social__item"><a href="https://www.instagram.com/timofey_._3/"><img src={inst} alt="Link"/></a>
                     </li>
                     <li className="social__item"><a href="https://github.com/T1maty"><img src={git} alt="Link"/></a></li>
-                    <li className="social__item"><a href="https://www.linkedin.com/in/tymofii-fedoryk-5a0926258/"><img src={linkedin} alt="Link"/></a>
+                    <li className="social__item"><a href="https://www.linkedin.com/in/timofij-fedorik-5a0926258/"><img src={linkedin} alt="Link"/></a>
                         </li>
                 </ul>
                 <div className="copyright">
