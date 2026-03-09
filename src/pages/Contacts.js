@@ -9,8 +9,8 @@ const Contacts = () => {
                         <p>Czech Republic, Prague</p>
                     </li>
                     <li className="content-list__item">
-                        <h2 className="title-2">Telegram </h2>
-                        <p><a href="https://t.me/termsthm">@termsthm</a></p>
+                        <h2 className="title-2">Whatsapp</h2>
+                        <p><a href="https://wa.me/420734661526" target="_blank" rel="noopener noreferrer">+420 734 661 526</a></p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Email</h2>

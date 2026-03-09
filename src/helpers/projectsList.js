@@ -1,7 +1,7 @@
 import cardiogram from "./../img/projects/cardiogram.jpg";
 import gi from "./../img/projects/gi.jpg";
 import fastapi from "./../img/projects/fastapi.jpg";
-
+import ladycrystal from "./../img/projects/ladycrystal.png";
 
 const projects = [
     {
@@ -18,6 +18,11 @@ const projects = [
         title: 'Manager Password',
         skills:'FASTAPI, Python, Github Actions CI/CD, Docker, JWT Authorization, MONGODB, But the project is still in development',
         img:fastapi,
+    },
+    {
+        title: 'The Lady Crystal',
+        skills:'That project for my client',
+        img:ladycrystal,
     },
 ];
 
