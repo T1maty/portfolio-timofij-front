@@ -1,4 +1,3 @@
-import {NavLink} from "react-router-dom";
 import Project from '../components/project/Project';
 import {projects} from "./../helpers/projectsList"
 

@@ -1,5 +1,3 @@
-
-import aibigg from './../img/projects/ai-bigg.jpg';
 import BtnGithub from "../components/btnGithub/BtnGithub";
 import {useParams} from "react-router-dom";
 import {projects} from "../helpers/projectsList";
