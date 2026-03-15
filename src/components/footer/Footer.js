@@ -1,5 +1,4 @@
 import inst from "../../img/icons/instagram.svg";
-import twitter from "../../img/icons/twitter.svg";
 import git from "../../img/icons/gitHub.svg";
 import linkedin from "../../img/icons/linkedIn.svg";
 
