@@ -1,13 +1,14 @@
 import cardiogram from "./../img/projects/cardiogram.jpg";
 import gi from "./../img/projects/gi.jpg";
 import fastapi from "./../img/projects/fastapi.jpg";
-import ladycrystal from "./../img/projects/ladycrystal.png";
+import ladycrystal from "./../img/projects/ladycrystal.jpg";
 
 const projects = [
     {
         title: 'Cardiogram of  the nation',
         skills:'Default HTML,CSS,Javascript and firebase',
         img:cardiogram,
+        link: 'https://cardiogram-of-nation.vercel.app/',
     },
     {
         title: 'Gaming Industrios',
@@ -23,6 +24,7 @@ const projects = [
         title: 'The Lady Crystal',
         skills:'That project for my client',
         img:ladycrystal,
+        link: 'https://theladycrystal.com',
     },
 ];
 

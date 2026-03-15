@@ -27,7 +27,13 @@ const Project = () => {
                     </div>
 
 
-                     <BtnGithub/>
+                     
+
+                        {selectedProject.link &&
+                        <a href={selectedProject.link} target="_blank" rel="noopener noreferrer" className="btn">
+                                      Visit site
+                        </a>
+}
             </div>
         </div>
     </main>
